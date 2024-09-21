@@ -18,7 +18,7 @@ Clone the repository:
 
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/dashboard-project.git
+git clone https://github.com/usirikapallymallesh/Dashboards.git
 cd dashboard-project
 ```
 - Install dependencies:
